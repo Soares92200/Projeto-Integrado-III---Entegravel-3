@@ -8,7 +8,7 @@ Este projeto é dado como um Minímo Produto Viável (MVP) e visa a concepção 
 A aplicação consiste em uma simulação de um sistema CRUD para agendamentos de uma clínica fictícia.
 
 # Layout web
-Base: https://www.figma.com/file/17VhU5gMlejW8PFrGS6HON/Design-de-interface----Emanuel-Cicero-Moreira-De-Lima?type=design&mode=design&t=3S3JX90JW4J8ZnYP-1
+Protótipo: https://www.figma.com/file/17VhU5gMlejW8PFrGS6HON/Design-de-interface----Emanuel-Cicero-Moreira-De-Lima?type=design&mode=design&t=3S3JX90JW4J8ZnYP-1
 ## Tela Home
 ![Tela home](img/home.png)
 ## Tela Formulário
